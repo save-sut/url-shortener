@@ -13,3 +13,6 @@ building a URL Shortener app with Node.js and MongoDB
   - Inside file ".env" >> DATABASE=mongodb://localhost:27017
 - Run npm start
 - Navigate to http://localhost:3000
+
+# Study with
+- Freshman on Github : https://github.com/Freshman-tech/url-shortener
