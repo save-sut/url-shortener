@@ -1,6 +1,8 @@
 # URL-Shortener
 building a URL Shortener app with Node.js and MongoDB
 
+My project is live @ https://shortly-url.herokuapp.com
+
 # Prerequisites
 - Node v10.15.0
 - npm v6.4.1
